@@ -120,6 +120,6 @@ function mousePressed()
   if(gameState!=="end")
   {
       count++;
-     ball=new Ball(mouseX, 10, 10, 10); 
+     ball=new Ball(mouseX, 10, 10); 
   }   
 }
